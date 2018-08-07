@@ -1,0 +1,9 @@
+Out of the 4 plot charts we see some interesting data.
+
+    First, the Max Temperature chart clearly show the closer you are to equater the warmer the temperature will be however, the maximum temperature is around 25 degrees latitude. In contrast, the farther away you move from the equater the cooler the maximum temperate is.
+    
+    The Humidity chart shows that all areas of latitude there can be 100 percent humidity. However, what is interesting is that around -20 degrees and 25 - 35 degrees latitude, the humidity drops below 20 percent.
+    
+    The Cloudiness chart shows that clouds happen at all latitudes.
+    
+    Finally, the Wind Speed chart shows that wind speeds are the higher at around -35 degrees, between 10 - 35 degrees, and 70 degrees latitude. And every city experiences at least 10 mph winds.
